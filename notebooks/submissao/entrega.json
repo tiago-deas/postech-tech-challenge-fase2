@@ -1,0 +1,14 @@
+{
+  "turma": "2DTATBB",
+  "grupo": "Grupo 09",
+  "integrantes": [
+    { "nome": "Josuelito Balbino da Silva", "rm": "RM377802" },
+    { "nome": "Joyce Kelly Simplicio da Lage", "rm": "RM377803" },
+    { "nome": "Tiago de Almeida Silva", "rm": "RM377768" }
+  ],
+  "links": {
+    "repositorio": "https://github.com/tiago-deas/postech-tech-challenge-fase2.git",
+    "video": "https://www.youtube.com/watch?v=xxxxxxxxxxx",
+    "apresentacao": "https://github.com/tiago-deas/postech-tech-challenge-fase2/blob/main/docs/apresentacao_executiva.pdf"
+  }
+}
