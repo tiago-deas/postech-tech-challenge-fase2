@@ -109,7 +109,7 @@ Depois execute os notebooks nesta ordem:
 
 | # | Notebook | O que faz |
 |---|---|---|
-| 1 | `notebookstech_challenge.ipynb` | Análise exploratória - Limpeza, escala e feature engineering - Treino e comparação dos modelos, Métricas, importância de variáveis e conclusões |
+| 1 | `notebooks/tech_challenge.ipynb` | Análise exploratória - Limpeza, escala e feature engineering - Treino e comparação dos modelos, Métricas, importância de variáveis e conclusões |
 
 **Semente fixa:** `RANDOM_STATE = 42`, declarada na primeira célula de cada notebook.
 Rodar os notebooks na ordem acima, a partir de um ambiente limpo, deve reproduzir
