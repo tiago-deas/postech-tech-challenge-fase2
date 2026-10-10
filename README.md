@@ -189,8 +189,6 @@ Antes de enviar, percorra o [`CHECKLIST.md`](CHECKLIST.md).
 
 ## 8. Tecnologias
 
-## 8. Tecnologias
-
 | Categoria | Tecnologia / Biblioteca | Versão |
 | :--- | :--- | :--- |
 | **Linguagem / Runtime** | Python | `3.13` |
