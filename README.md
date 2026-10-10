@@ -28,7 +28,7 @@ Estes três links são **obrigatórios** e devem ser idênticos aos do PDF de su
 | Item | Link |
 |---|---|
 | Repositório | https://github.com/tiago-deas/postech-tech-challenge-fase2.git |
-| Vídeo executivo (≤ 5 min) | <!-- PREENCHER: YouTube não listado / Drive com acesso liberado --> |
+| Vídeo executivo (≤ 5 min) | https://youtu.be/RjBnEgdOmwU |
 | Apresentação | https://github.com/tiago-deas/postech-tech-challenge-fase2/blob/main/docs/apresentacao_executiva.pdf |
 
 > ⚠️ Repositório privado ou inacessível inviabiliza a avaliação da entrega.
