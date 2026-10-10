@@ -46,13 +46,13 @@ A variável alvo (TARGET) foi definida a partir da coluna STATUS da base de hist
 
 ### Dataset
 
-| Campo | Valor |
-|---|---|
-| Fonte | https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data |
-| Linhas × colunas | application_record.csv = 438.557 x 18 |
-| Linhas × colunas | credit_record.csv = 1.048.575 x 3 |
-| Período / versão | Versão 2 (Version 2), disponibilizada publicamente pelo utilizador rikdifos em 2020. |
-| Licença de uso | CC0: Public Domain |
+| Campo | Valor | Informação
+|---|---| --- |
+| Fonte | https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data | |
+| Linhas × colunas | application_record.csv | 438.557 x 18 |
+| Linhas × colunas | credit_record.csv | 1.048.575 x 3 |
+| Período / versão | Versão 2 (Version 2), disponibilizada publicamente pelo utilizador rikdifos em 2020. | |
+| Licença de uso | CC0: Public Domain | |
 
 Descrição das variáveis:
 
